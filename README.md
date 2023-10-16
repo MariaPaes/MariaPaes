@@ -16,7 +16,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPaes&layout=compact&langs_count=7&theme=dra">
 
 
-  ![snake gif](https://github.com/MariaPaes/MariaPaes/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
