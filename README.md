@@ -20,7 +20,7 @@ Tecnologias de estudo:
 ##
 Contato: 
 <div>
-  📱 <a href = "https://linktr.ee/mariaclara.paes">
+  📱 <a href = "https://linktr.ee/mariaclara.paes"></a>
                                                        
   ![Snake animation](https://github.com/MariaPaes/MariaPaes/blob/output/github-contribution-grid-snake.svg)
 </div>
