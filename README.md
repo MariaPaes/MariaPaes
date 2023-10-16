@@ -14,10 +14,9 @@
     <a href="https://github.com/MariaPaes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaPaes&show_icons=true&theme=dracula&include_all_commits">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaPaes&layout=compact&langs_count=7&theme=dra">
-  </div>
 
-                                                       
-  ![Snake animation](https://github.com/MariaPaes/MariaPaes/blob/output/github-contribution-grid-snake.svg)
+
+  ![snake gif](https://github.com/MariaPaes/MariaPaes/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
